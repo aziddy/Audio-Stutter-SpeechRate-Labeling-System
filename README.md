@@ -8,14 +8,14 @@ Which allows storage in any string format ( **.databases**, **.assls**, **.txt**
 
 
 
-This system is intended to be used in conjunction with audio files (**.wav**, **.mp3**, **.flac** etc..)
 
 <br>
 
-The .ASSLS file format can store
+### The System can store
 * Audio Timestamp Annotations
 * Word / Syllable based Annotations 
 
+<br>
 
 Audio Timestamp Annotations are pretty straightfoward ( label, starting_timestamp, ending_timestamp )
 
@@ -26,6 +26,10 @@ Word / Syllable based Annotations require external transcription services
 <br>
 
 ### Example Dataset File Structure
+
+This system is intended to be used in conjunction with audio files (**.wav**, **.mp3**, **.flac** etc..)
+
+
 - Dataset
   - recording_7353
     - audio.wav
