@@ -17,7 +17,7 @@ Which allows storage in any string format ( **.databases**, **.assls**, **.txt**
 
 <br>
 
-Audio Timestamp Annotations are pretty straightfoward ( label, starting_timestamp, ending_timestamp )
+Audio Timestamp Annotations are pretty straightfoward ( **label**, **starting_timestamp**, **ending_timestamp** )
 
 Word / Syllable based Annotations require external transcription services 
 
