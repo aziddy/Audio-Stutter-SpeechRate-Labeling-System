@@ -14,7 +14,7 @@ The .ASSLS file format can store
 
 Audio Timestamp Annotations are pretty straightfoward ( label, starting_timestamp, ending_timestamp )
 
-Word / Syllable based Annotations require external transciption services 
+Word / Syllable based Annotations require external transcription services 
 
 
 <br>
