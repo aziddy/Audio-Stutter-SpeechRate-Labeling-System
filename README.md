@@ -1,7 +1,12 @@
 # Audio-StutterSyllable-Labeling-System
-Audio Stutter/Syllabe Labeling System (.ASSLS) file format
+Audio Stutter/Syllabe Labeling System
 
 Due to the lack of any stuttering speech labeling systems and datasets on the internet. We decided to create our own Open Source System built upon JSON to allow easy modification and access
+
+Which allows storage in any string format ( **.databases**, **.assls**, **.txt** etc) and allows for easy custom parsers to be made
+
+
+
 
 This system is intended to be used in conjunction with audio files (**.wav**, **.mp3**, **.flac** etc..)
 
